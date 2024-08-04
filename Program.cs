@@ -1,55 +1,47 @@
-﻿using System;
+﻿using Q4_AssignmentCollections.Model;
 
-namespace Q4_AssignmentsExceptionalHandling
+namespace Q4_AssignmentCollections
 {
-    internal class PrimeNumberException : Exception
-    {
-        public PrimeNumberException(string message) : base(message)
-        {
-        }
-    }
-
     internal class Program
     {
-        public static void Main(string[] args)
+        static void Main()
         {
-            try
-            {
-                int randomNumber = GenerateRandomNumber();
-                Console.WriteLine("Generated random number: " + randomNumber+" is not a prime number");
-            }
-            catch (PrimeNumberException ex)
-            {
-                Console.WriteLine("Exception: " + ex.Message);
-            }
-        }
+            // Creating manufacturing companies
+            ManufacturingCompany company1 = new ManufacturingCompany("AutoCorp", "Germany", "1234 Autobahn", "123-456-7890", "123-456-7891");
+            ManufacturingCompany company2 = new ManufacturingCompany("PartsUnlimited", "USA", "5678 Broadway", "987-654-3210", "987-654-3211");
 
-        public static int GenerateRandomNumber()
-        {
-            Random random = new Random();
-            int number = random.Next(1, 101); // Generates a random number between 1 and 100
-            if (IsPrime(number))
-            {
-                throw new PrimeNumberException($"Generated number {number} is a prime number.");
-            }
-            return number;
-        }
+            // Creating car models
+            CarModel carModel1 = new CarModel("Mercedes", "C320", 2008);
+            CarModel carModel2 = new CarModel("BMW", "X5", 2012);
 
-        public static bool IsPrime(int number)
-        {
-            if (number <= 1)
-                return false;
-            if (number == 2)
-                return true;
-            int count = 0;
-            for (int i = 1; i <= number; i++)
-            {
-                if (number % i == 0)
-                {
-                    count++;
-                }
-            }
-            return count == 2;
+            // Creating auto parts
+            Part part1 = new Part(
+                "P001",
+                "Brake Pad",
+                "Suspension",
+                50.00m,
+                75.00m,
+                new List<CarModel> { carModel1, carModel2 },
+                company1
+            );
+
+            Part part2 = new Part(
+                "P002",
+                "Engine Oil",
+                "Engine",
+                30.00m,
+                45.00m,
+                new List<CarModel> { carModel2 },
+                company2
+            );
+
+            // Creating store and add parts
+            Store store = new Store();
+            store.AddPart(part1);
+            store.AddPart(part2);
+
+            // Show all auto parts
+            store.ShowAllParts();
         }
     }
 }
