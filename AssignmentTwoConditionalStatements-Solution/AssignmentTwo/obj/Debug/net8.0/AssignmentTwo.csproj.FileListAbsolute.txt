@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\bin\Debug\net8.0\AssignmentTwo.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\bin\Debug\net8.0\AssignmentTwo.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\bin\Debug\net8.0\AssignmentTwo.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\bin\Debug\net8.0\AssignmentTwo.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\bin\Debug\net8.0\AssignmentTwo.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\refint\AssignmentTwo.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\AssignmentTwo.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentTwo-Solution\AssignmentTwo\obj\Debug\net8.0\ref\AssignmentTwo.dll
