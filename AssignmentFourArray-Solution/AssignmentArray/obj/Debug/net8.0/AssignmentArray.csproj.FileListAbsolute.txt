@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\bin\Debug\net8.0\AssignmentArray.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\bin\Debug\net8.0\AssignmentArray.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\bin\Debug\net8.0\AssignmentArray.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\bin\Debug\net8.0\AssignmentArray.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\bin\Debug\net8.0\AssignmentArray.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\refint\AssignmentArray.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\AssignmentArray.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFourArray-Solution\AssignmentArray\obj\Debug\net8.0\ref\AssignmentArray.dll
