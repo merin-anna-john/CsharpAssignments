@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\bin\Debug\net8.0\AssignmnetOneVariablesandDatatypes.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\bin\Debug\net8.0\AssignmnetOneVariablesandDatatypes.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\bin\Debug\net8.0\AssignmnetOneVariablesandDatatypes.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\bin\Debug\net8.0\AssignmnetOneVariablesandDatatypes.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\bin\Debug\net8.0\AssignmnetOneVariablesandDatatypes.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\refint\AssignmnetOneVariablesandDatatypes.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\AssignmnetOneVariablesandDatatypes.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmnetOneVariablesandDatatypes-Solution\AssignmnetOneVariablesandDatatypes\obj\Debug\net8.0\ref\AssignmnetOneVariablesandDatatypes.dll
