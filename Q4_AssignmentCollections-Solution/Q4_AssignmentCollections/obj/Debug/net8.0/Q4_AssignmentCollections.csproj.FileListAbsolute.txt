@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\bin\Debug\net8.0\Q4_AssignmentCollections.exe
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\bin\Debug\net8.0\Q4_AssignmentCollections.deps.json
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\bin\Debug\net8.0\Q4_AssignmentCollections.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\bin\Debug\net8.0\Q4_AssignmentCollections.dll
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\bin\Debug\net8.0\Q4_AssignmentCollections.pdb
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.dll
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\refint\Q4_AssignmentCollections.dll
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.pdb
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\Q4_AssignmentCollections.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4.1 .NET\.NET\Assignments\AssignmentTenCollections\Q4_AssignmentCollections-Solution\Q4_AssignmentCollections\obj\Debug\net8.0\ref\Q4_AssignmentCollections.dll
