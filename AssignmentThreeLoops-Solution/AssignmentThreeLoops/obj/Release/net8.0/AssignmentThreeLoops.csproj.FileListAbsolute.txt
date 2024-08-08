@@ -1,0 +1,4 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentThreeLoops-Solution\AssignmentThreeLoops\obj\Release\net8.0\AssignmentThreeLoops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentThreeLoops-Solution\AssignmentThreeLoops\obj\Release\net8.0\AssignmentThreeLoops.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentThreeLoops-Solution\AssignmentThreeLoops\obj\Release\net8.0\AssignmentThreeLoops.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\AssignmentThreeLoops-Solution\AssignmentThreeLoops\obj\Release\net8.0\AssignmentThreeLoops.csproj.CoreCompileInputs.cache
