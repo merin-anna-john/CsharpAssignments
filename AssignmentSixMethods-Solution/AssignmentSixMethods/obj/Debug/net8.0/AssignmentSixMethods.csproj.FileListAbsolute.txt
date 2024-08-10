@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\bin\Debug\net8.0\AssignmentSixMethods.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\bin\Debug\net8.0\AssignmentSixMethods.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\bin\Debug\net8.0\AssignmentSixMethods.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\bin\Debug\net8.0\AssignmentSixMethods.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\bin\Debug\net8.0\AssignmentSixMethods.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\refint\AssignmentSixMethods.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\AssignmentSixMethods.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentSixMethods-Solution\AssignmentSixMethods\obj\Debug\net8.0\ref\AssignmentSixMethods.dll
