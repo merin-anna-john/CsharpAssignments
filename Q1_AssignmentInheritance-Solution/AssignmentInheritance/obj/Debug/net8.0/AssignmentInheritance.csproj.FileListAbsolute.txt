@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\bin\Debug\net8.0\AssignmentInheritance.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\bin\Debug\net8.0\AssignmentInheritance.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\bin\Debug\net8.0\AssignmentInheritance.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\bin\Debug\net8.0\AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\bin\Debug\net8.0\AssignmentInheritance.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\refint\AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\AssignmentInheritance.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q1_AssignmentInheritance-Solution\AssignmentInheritance\obj\Debug\net8.0\ref\AssignmentInheritance.dll
