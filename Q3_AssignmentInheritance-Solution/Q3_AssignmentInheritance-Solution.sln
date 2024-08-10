@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35027.167
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Q3_AssignmentInheritance", "Q3_AssignmentInheritance\Q3_AssignmentInheritance.csproj", "{D109ACE1-DE7B-4C12-8438-B61D178DB1BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D109ACE1-DE7B-4C12-8438-B61D178DB1BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D109ACE1-DE7B-4C12-8438-B61D178DB1BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D109ACE1-DE7B-4C12-8438-B61D178DB1BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D109ACE1-DE7B-4C12-8438-B61D178DB1BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED688E5C-008E-4B5E-A4C5-44BF12923CA7}
+	EndGlobalSection
+EndGlobal

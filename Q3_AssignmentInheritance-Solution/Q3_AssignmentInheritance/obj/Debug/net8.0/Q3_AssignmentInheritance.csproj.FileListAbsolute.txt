@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\bin\Debug\net8.0\Q3_AssignmentInheritance.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\bin\Debug\net8.0\Q3_AssignmentInheritance.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\bin\Debug\net8.0\Q3_AssignmentInheritance.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\bin\Debug\net8.0\Q3_AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\bin\Debug\net8.0\Q3_AssignmentInheritance.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\refint\Q3_AssignmentInheritance.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\Q3_AssignmentInheritance.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentInheritance-Solution\Q3_AssignmentInheritance-Solution\Q3_AssignmentInheritance\obj\Debug\net8.0\ref\Q3_AssignmentInheritance.dll
