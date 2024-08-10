@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\bin\Debug\net8.0\Q1_AssignmentInterface.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\bin\Debug\net8.0\Q1_AssignmentInterface.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\bin\Debug\net8.0\Q1_AssignmentInterface.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\bin\Debug\net8.0\Q1_AssignmentInterface.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\bin\Debug\net8.0\Q1_AssignmentInterface.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\refint\Q1_AssignmentInterface.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\Q1_AssignmentInterface.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentEightInterface\Q1_AssignmentInterface-Solution\Q1_AssignmentInterface\obj\Debug\net8.0\ref\Q1_AssignmentInterface.dll
