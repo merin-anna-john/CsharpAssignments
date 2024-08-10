@@ -1,0 +1,14 @@
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.AssemblyInfoInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.AssemblyInfo.cs
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.csproj.CoreCompileInputs.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\bin\Debug\net8.0\AssignmentFiveString.exe
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\bin\Debug\net8.0\AssignmentFiveString.deps.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\bin\Debug\net8.0\AssignmentFiveString.runtimeconfig.json
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\bin\Debug\net8.0\AssignmentFiveString.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\bin\Debug\net8.0\AssignmentFiveString.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\refint\AssignmentFiveString.dll
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.pdb
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\AssignmentFiveString.genruntimeconfig.cache
+C:\Users\merin\Desktop\Faith\Camp4 .NET\.NET\Assignments\AssignmentFiveString-Solution\AssignmentFiveString\obj\Debug\net8.0\ref\AssignmentFiveString.dll
